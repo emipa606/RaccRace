@@ -19,23 +19,28 @@
   </modDependencies>
   <loadAfter>
     <li>erdelf.HumanoidAlienRaces</li>
+    <li>pyrce.swimming.modkit</li>
   </loadAfter>
-  <description>Update of Xens mod
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Xens mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2018388533
 
-[img]https://i.imgur.com/wtwHAQu.png[/img]
+- Added Royalty faction goodwill patch
+- Added compatibility with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1542399915]SwimmingKit[/url]
 
-Support-chat:
-https://invite.gg/mlie
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-Non-steam version:
-https://github.com/emipa606/RaccRace
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/RaccRace][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
-The Racc are a raccoon humanoid species obsessed with intelligence and espionage.
-Uses the Alien Framework V2.0 by Erdelf and co.
+[img]https://i.imgur.com/NOW7jU1.png[/img]
 
-Custom backstories and name generators
-
-Art (Heads) by Nackblad and Xen.</description>
+The Racc are a raccoon humanoid species obsessed with intelligence and espionage. 
+	 Uses the Alien Framework V2.0 by Erdelf and co.
+	 
+	 Art (Heads) by Nackblad and Xen.</description>
 </ModMetaData>
