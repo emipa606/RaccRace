@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/MainButtonDef[defName="Achievements"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs</xpath>
+          <value>
+            <AchievementsExpanded.AchievementTabDef>
+              <defName>Mlie_Continued</defName>
+              <label>Continued Mods</label>
+            </AchievementsExpanded.AchievementTabDef>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs</xpath>
+          <value>
+            <AchievementsExpanded.AchievementDef>
+              <defName>Racc_OneBandit</defName>
+              <label>One Bandit</label>
+              <description>Have one Racc colonist</description>
+              <tracker Class="AchievementsExpanded.RaceDefTracker">
+                <raceDefs>
+                  <li>
+                    <key>Alien_Racc</key>
+                    <value>1</value>
+                  </li>
+                </raceDefs>
+              </tracker>
+              <texPath>Achievements/Racc_OneBandit</texPath>
+              <points>10</points>
+              <tab>Mlie_Continued</tab>
+            </AchievementsExpanded.AchievementDef>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs</xpath>
+          <value>
+            <AchievementsExpanded.AchievementDef>
+              <defName>Racc_MaskedTrio</defName>
+              <label>Masked trio</label>
+              <description>Have three Racc colonists</description>
+              <tracker Class="AchievementsExpanded.RaceDefTracker">
+                <raceDefs>
+                  <li>
+                    <key>Alien_Racc</key>
+                    <value>3</value>
+                  </li>
+                </raceDefs>
+              </tracker>
+              <texPath>Achievements/Racc_MaskedTrio</texPath>
+              <points>20</points>
+              <tab>Mlie_Continued</tab>
+            </AchievementsExpanded.AchievementDef>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs</xpath>
+          <value>
+            <AchievementsExpanded.AchievementDef>
+              <defName>Racc_TheGangIsAllHere</defName>
+              <label>The gang is all here</label>
+              <description>Have ten Racc colonists</description>
+              <tracker Class="AchievementsExpanded.RaceDefTracker">
+                <raceDefs>
+                  <li>
+                    <key>Alien_Racc</key>
+                    <value>10</value>
+                  </li>
+                </raceDefs>
+              </tracker>
+              <texPath>Achievements/Racc_TheGangIsAllHere</texPath>
+              <points>50</points>
+              <tab>Mlie_Continued</tab>
+            </AchievementsExpanded.AchievementDef>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>
