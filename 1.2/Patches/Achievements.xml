@@ -18,7 +18,16 @@
         <li Class="PatchOperationAdd">
           <xpath>Defs</xpath>
           <value>
-            <AchievementsExpanded.AchievementDef>
+            <AchievementsExpanded.AchievementDef Name="Mlie_AchievementParent" Abstract="true">
+              <bgtexPath>Achievements/AchievmentsBG</bgtexPath>
+              <tab>Mlie_Continued</tab>
+            </AchievementsExpanded.AchievementDef>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs</xpath>
+          <value>
+            <AchievementsExpanded.AchievementDef ParentName="Mlie_AchievementParent">
               <defName>Racc_OneBandit</defName>
               <label>One Bandit</label>
               <description>Have one Racc colonist</description>
@@ -32,14 +41,13 @@
               </tracker>
               <texPath>Achievements/Racc_OneBandit</texPath>
               <points>10</points>
-              <tab>Mlie_Continued</tab>
             </AchievementsExpanded.AchievementDef>
           </value>
         </li>
         <li Class="PatchOperationAdd">
           <xpath>Defs</xpath>
           <value>
-            <AchievementsExpanded.AchievementDef>
+            <AchievementsExpanded.AchievementDef ParentName="Mlie_AchievementParent">
               <defName>Racc_MaskedTrio</defName>
               <label>Masked trio</label>
               <description>Have three Racc colonists</description>
@@ -53,14 +61,13 @@
               </tracker>
               <texPath>Achievements/Racc_MaskedTrio</texPath>
               <points>20</points>
-              <tab>Mlie_Continued</tab>
             </AchievementsExpanded.AchievementDef>
           </value>
         </li>
         <li Class="PatchOperationAdd">
           <xpath>Defs</xpath>
           <value>
-            <AchievementsExpanded.AchievementDef>
+            <AchievementsExpanded.AchievementDef ParentName="Mlie_AchievementParent">
               <defName>Racc_TheGangIsAllHere</defName>
               <label>The gang is all here</label>
               <description>Have ten Racc colonists</description>
@@ -74,7 +81,6 @@
               </tracker>
               <texPath>Achievements/Racc_TheGangIsAllHere</texPath>
               <points>50</points>
-              <tab>Mlie_Continued</tab>
             </AchievementsExpanded.AchievementDef>
           </value>
         </li>
