@@ -111,8 +111,9 @@
           <value>
             <AchievementsExpanded.Reward_MapIncident>
               <defName>Racc_ARaccJoinsTheColony</defName>
-              <label>A Racc Joins the Colony</label>
+              <label>A Racc Joins</label>
               <cost>150</cost>
+              <tab>Mlie_Continued</tab>
               <incident>Racc_RaccJoinsTheColony</incident>
             </AchievementsExpanded.Reward_MapIncident>
           </value>
