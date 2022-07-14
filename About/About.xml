@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Racc Race (Continued)</name>
   <packageId>Mlie.RaccRace</packageId>
@@ -22,25 +22,29 @@
     <li>erdelf.HumanoidAlienRaces</li>
     <li>pyrce.swimming.modkit</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Xens mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2018388533
 
 - Added Royalty faction goodwill patch
 - Added compatibility with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1542399915]SwimmingKit[/url]
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/RaccRace][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
-	[/tr]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/6KqTKks.png[/img][/td]
+    [/tr]
 [/table]
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2288125657][img]https://i.imgur.com/kNldlMg.png[/img][/url]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 The Racc are a raccoon humanoid species obsessed with intelligence and espionage. 
 	 Uses the Alien Framework V2.0 by Erdelf and co.
@@ -48,7 +52,7 @@ The Racc are a raccoon humanoid species obsessed with intelligence and espionage
 	 Art (Heads) by Nackblad and Xen.
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -57,6 +61,5 @@ The Racc are a raccoon humanoid species obsessed with intelligence and espionage
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [/list]
-
 </description>
 </ModMetaData>
