@@ -1,6 +1,6 @@
 # RaccRace
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Xens mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2018388533
@@ -8,22 +8,13 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2018388533
 - Added Royalty faction goodwill patch
 - Added compatibility with https://steamcommunity.com/sharedfiles/filedetails/?id=1542399915]SwimmingKit
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/RaccRace]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2288125657]![Image](https://i.imgur.com/kNldlMg.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 The Racc are a raccoon humanoid species obsessed with intelligence and espionage. 
@@ -32,7 +23,7 @@ The Racc are a raccoon humanoid species obsessed with intelligence and espionage
 	 Art (Heads) by Nackblad and Xen.
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
